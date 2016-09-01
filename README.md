@@ -1,11 +1,10 @@
-# machine_learning
 [Course] (https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/home) on machine learning 
 
 Week 1. Introduction. Logical classification methods
 
-Week 2. Metric and linear classification methods
+Week 2. [Metric] (metric_methods) and [linear](linear) classification methods
 
-Week 3. Support vector machine and logistic regression. Assessment of classification quality
+Week 3. Support vector machine and [logistic regression.](log_regression) [Assessment of classification quality](evaluation_clf)
 
 Week 4. Dimension reduction and principal component analysis
 
