@@ -1,6 +1,6 @@
 [Course] (https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/home) on machine learning 
 
-Week 1. Introduction. Logical classification methods
+[Week 1.](titanic) Introduction. Logical classification methods
 
 Week 2. [Metric] (metric_methods) and [linear](linear) classification methods
 
